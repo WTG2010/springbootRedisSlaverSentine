@@ -1,0 +1,2 @@
+# springbootRedisSlaverSentine
+windows下redis实现一主二从三哨兵，springboot项目配置哨兵信息，操作redis
